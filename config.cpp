@@ -40,7 +40,7 @@ class CfgVehicles
 	class Inventory_Base;
 	class zfa_neonsign : Inventory_Base
 	{
-		scope=2;
+		scope=1;
 		model="zfa_NeonSign\zfa_NeonSign.p3d";
 	};
 };
